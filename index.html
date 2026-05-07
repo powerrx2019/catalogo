@@ -385,6 +385,13 @@
       text-transform: uppercase;
     }
 
+    .card-desc {
+      font-size: 0.72rem;
+      color: var(--muted);
+      line-height: 1.4;
+      margin-top: 2px;
+    }
+
     .card-prices {
       margin-top: 8px;
       display: flex;
@@ -533,7 +540,13 @@
 <button id="toTop" title="Volver arriba">↑</button>
 
 <script src="precios.js"></script>
+<script src="descripciones.js"></script>
 <script>
+  // Cruzar descripciones con productos por nombre
+  const descMap = {};
+  descripciones.forEach(d => { descMap[d.nombre.trim()] = d.descripcion; });
+  productos.forEach(p => { p.descripcion = descMap[p.nombre.trim()] || ''; });
+
   const CATEGORIAS = [
     'TODAS',
     'ACCESORIOS','AMINOACIDOS','AMINOACIDOS/GLUTAMINAS','COLAGENOS','CREATINAS',
@@ -628,6 +641,7 @@
         <div class="card-body">
           <div class="card-brand">${p.marca}</div>
           <div class="card-name">${p.nombre}</div>
+          ${p.descripcion ? `<div class="card-desc">${p.descripcion}</div>` : ''}
           <div class="card-prices">
             <hr class="price-divider">
             <div class="price-row">
