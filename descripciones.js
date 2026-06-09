@@ -144,6 +144,7 @@ const descripciones = [
   { nombre: "ISO 100 5 LBS", descripcion: " una de las proteínas de mayor calidad del mercado. 25 g proteína + 5.5 g BCAA + 2.6 g leucina. Potencia ultra rápida de absorción. 71 servicios." },
   { nombre: "ISOFIT", descripcion: "25 g aislado de suero + 12 g EAA + 5.9 g BCAA por porción. Combustible de precisión para crecimiento muscular, fuerza y recuperación. 70 servicios." },
   { nombre: "ISOPURE", descripcion: " 100% proteína aislada sin carbohidratos. 25 g proteína por servicio. Sin gluten, sin lactosa. Cargada de vitaminas y minerales. 44 servicios." },
+  { nombre: "ISOPURE_GRANDE", descripcion: " 100% proteína aislada sin carbohidratos. 25 g proteína por servicio. Sin gluten, sin lactosa. Cargada de vitaminas y minerales. 62 servicios." },
   { nombre: "JOINT SUPPORT GAT", descripcion: "colágeno y soporte articular. Fórmula completa para proteger tendones, ligamentos y cartílagos durante entrenamientos de alta intensidad." },
   { nombre: "L ARGININA GAT", descripcion: " precursor de óxido nítrico. Promueve vasodilatación, desarrollo y recuperación muscular. Estimula hormona de crecimiento, quema de grasa y mejora circulación. Forma libre para mejor absorción. 180 cápsulas." },
   { nombre: "L CARNITINA GAT CAPS", descripcion: "transporta ácidos grasos a la mitocondria como fuente de energía. Apoya pérdida de grasa, resistencia y recuperación muscular." },
