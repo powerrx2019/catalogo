@@ -199,6 +199,7 @@ const descripciones = [
   { nombre: "SHAKER COLOR LISO", descripcion: "botella mezcladora profesional con bola mezcladora para mezclas perfectas sin grumos. Sin BPA." },
   { nombre: "SHAKER SYNTRAX", descripcion: "botella deportiva de alta calidad para mezcla de suplementos. Diseño práctico y ergonómico." },
   { nombre: "SHAKER GARRAFON", descripcion: "shaker de gran capacidad para atletas que necesitan mayor volumen de bebidas y suplementos durante el entrenamiento." },
+  { nombre: "SHAKER SUPER HEROES", descripcion: "Shaker de super heroes, diferentes diseños, ideal para tu suplemento, capacidad 700ml" },
   { nombre: "STRAPS (CAYERAS)", descripcion: "esencial para mejorar el agarre en dominadas, peso muerto y remos. Protege muñecas y mejora el desempeño." },
   { nombre: "SUPER PUMP MAX", descripcion: " pre-entreno único con 4 g L-Citrulina + 4 g L-Leucina. Energía intensa, concentración, bombeos alucinantes y anabolismo muscular. Con electrolitos para mayor hidratación. 40 servicios." },
   { nombre: "SYNTHA 6", descripcion: "mezcla de concentrado + aislado + caseinato + caseína micelar + proteína de leche + albumina de huevo. 22 g proteína + 10 g aminoácidos esenciales. 48 servicios." },
@@ -214,4 +215,5 @@ const descripciones = [
   { nombre: "XTINCTION MULTISABOR", descripcion: "proteína hidrolizada 5 kg con 5 bolsas de 1 kg en diferentes sabores. 25 g proteína, 0 g grasas trans, 0 g azúcar por servicio. 167 servicios." },
   { nombre: "YOHIMBINE", descripcion: " extracto de yohimbe estandarizado. Apoya quema de grasa en áreas problemáticas. Aumenta energía y libido." },
   { nombre: "ZMAG GAT", descripcion: "complejo ZMA de zinc, magnesio y vitamina B6. Apoya recuperación muscular, niveles de testosterona, calidad del sueño y rendimiento atlético." },
+ 
 ];

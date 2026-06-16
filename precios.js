@@ -193,6 +193,7 @@ const productos = [
   { nombre: "SHAKER COLOR LISO", categoria: "ACCESORIOS", marca: "BLENDER BOTTLE", imagen: "SHAKER_BLENDER.png", menudeo: 280, mayoreo3k: 208, mayoreo6k: 196 },
   { nombre: "SHAKER SYNTRAX", categoria: "ACCESORIOS", marca: "SYNTRAX", imagen: "SHAKER_SYNTRAX.png", menudeo: 230, mayoreo3k: 135, mayoreo6k: 123 },
   { nombre: "SHAKER GARRAFON", categoria: "ACCESORIOS", marca: "BSN", imagen: "SHAKER_GARRAFON_BSN.png", menudeo: 280, mayoreo3k: 180, mayoreo6k: 168 },
+  { nombre: "SHAKER SUPER HEROES", categoria: "ACCESORIOS", marca: "PERFECT", imagen: "SHAKER_SUPER_HEROES.png", menudeo: 300, mayoreo3k: 206, mayoreo6k: 194 },
   { nombre: "STRAPS (CAYERAS)", categoria: "ACCESORIOS", marca: "-", imagen: "STRAPS_SUPERHEROES.png", menudeo: 250, mayoreo3k: 170, mayoreo6k: 158 },
   { nombre: "SUPER PUMP MAX", categoria: "PRE ENTRENOS", marca: "GASPARI", imagen: "SUPER_PUMP_MAX.png", menudeo: 590, mayoreo3k: 482, mayoreo6k: 467 },
   { nombre: "SYNTHA 6", categoria: "PROTEINAS", marca: "BSN", imagen: "SYNTHA-6.png", menudeo: 1060, mayoreo3k: 943, mayoreo6k: 928 },
@@ -208,4 +209,4 @@ const productos = [
   { nombre: "XTINCTION MULTISABOR", categoria: "PROTEINAS", marca: "XTINCTION", imagen: "WHEY_XTINCTION_MULTISABOR.png", menudeo: 850, mayoreo3k: 605, mayoreo6k: 582 },
   { nombre: "YOHIMBINE", categoria: "QUEMADORES", marca: "ALLMAX", imagen: "YOHIMBINE.png", menudeo: 350, mayoreo3k: 251, mayoreo6k: 239 },
   { nombre: "ZMAG GAT", categoria: "OTROS", marca: "GAT SPORT", imagen: "ZMAG_GAT.png", menudeo: 320, mayoreo3k: 216, mayoreo6k: 204 },
-];
+ ];
