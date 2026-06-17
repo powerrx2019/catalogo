@@ -172,7 +172,7 @@ const descripciones = [
   { nombre: "NITRAFLEX", descripcion: "fórmula de alta densidad clínicamente probada con citrulina, beta alanina y arginina. Incrementa energía, concentración, fuerza, resistencia, bombeos y mejora testosterona durante el entrenamiento. 30 servicios." },
   { nombre: "NITRO TECH PERFORMANCE 4 LBS", descripcion: " proteína limpia y simple. 30 g de proteína de péptidos de suero y aislado, las más limpias y puras del mercado. 41 servicios." },
   { nombre: "NITRO TECH WHEY GOLD 2 LBS", descripcion: " aislado y concentrado de alta calidad con péptidos. 24 g proteína + 5.5 g BCAA + 4 g glutamina. Baja en grasas y carbohidratos. 76 servicios." },
-  { nombre: "NITRO TECH WHEY GOLD 5 LBS", descripcion: "24 g proteína + 5.5 g BCAA + 4 g glutamina. Rápida absorción, ideal para post-entreno. Baja en grasas y carbohidratos. 109 servicios." },
+  { nombre: "NITRO TECH WHEY GOLD 5 LBS", descripcion: "24 g proteína + 5.5 g BCAA + 4 g glutamina. Rápida absorción, ideal para post-entreno. Baja en grasas y carbohidratos. 76 servicios." },
   { nombre: "NITROTECH RIPPED 4 LBS", descripcion: "promueve pérdida de grasa y mantenimiento de masa muscular. 30 g proteína + 250 mg CLA + 500 mg L-Carnitina por servicio. 42 servicios." },
   { nombre: "OMEGA 3 GAT", descripcion: "EPA y DHA de alta concentración para salud cardiovascular, función cerebral, reducción de inflamación y salud articular en atletas." },
   { nombre: "OPTI MEN", descripcion: "multivitamínico completo para hombres activos. Vitaminas, minerales, aminoácidos, enzimas y extractos botánicos para rendimiento y salud integral." },
