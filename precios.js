@@ -166,7 +166,7 @@ const productos = [
   { nombre: "NITRAFLEX", categoria: "PRE ENTRENOS", marca: "GAT SPORT", imagen: "NITRAFLEX.png", menudeo: 560, mayoreo3k: 414, mayoreo6k: 394 },
   { nombre: "NITRO TECH PERFORMANCE 4 LBS", categoria: "PROTEINAS", marca: "MUSCLETECH", imagen: "NITRO_TECH_PERFORMANCE.png", menudeo: 1050, mayoreo3k: 940, mayoreo6k: 925 },
   { nombre: "NITRO TECH WHEY GOLD 2 LBS", categoria: "PROTEINAS", marca: "MUSCLETECH", imagen: "NITRO_TECH_WHEY_GOLD_2LBS.png", menudeo: 690, mayoreo3k: 576, mayoreo6k: 561 },
-  { nombre: "NITRO TECH WHEY GOLD 5 LBS", categoria: "PROTEINAS", marca: "MUSCLETECH", imagen: "NITRO_TECH_WHEY_GOLD.png", menudeo: 1180, mayoreo3k: 1047, mayoreo6k: 1032 },
+  { nombre: "NITRO TECH WHEY GOLD 5 LBS", categoria: "PROTEINAS", marca: "MUSCLETECH", imagen: "NITRO_TECH_WHEY_GOLD.png", menudeo: 1190, mayoreo3k: 1048, mayoreo6k: 1033 },
   { nombre: "NITROTECH RIPPED 4 LBS", categoria: "PROTEINAS", marca: "MUSCLETECH", imagen: "NITRO_TECH_RIPPED.png", menudeo: 1060, mayoreo3k: 943, mayoreo6k: 928 },
   { nombre: "OMEGA 3 GAT", categoria: "VITAMINAS", marca: "GAT SPORT", imagen: "OMEGA-3.png", menudeo: 430, mayoreo3k: 328, mayoreo6k: 316 },
   { nombre: "OPTI MEN", categoria: "VITAMINAS", marca: "ON", imagen: "OPTI-MEN_ON.png", menudeo: 600, mayoreo3k: 519, mayoreo6k: 507 },
@@ -205,7 +205,7 @@ const productos = [
   { nombre: "VEGAN NATURALS", categoria: "PROTEINAS", marca: "ADVANCED NUTRITION", imagen: "VEGAN_PROTEIN.png", menudeo: 850, mayoreo3k: 749, mayoreo6k: 734 },
   { nombre: "VENOM INFERNO", categoria: "PRE ENTRENOS", marca: "DRAGON PHARMA", imagen: "VENOM_INFERNO.png", menudeo: 520, mayoreo3k: 414, mayoreo6k: 402 },
   { nombre: "VITAMINA C INSANE", categoria: "VITAMINAS", marca: "INSANE", imagen: "VITAMINA_C_INSANE.png", menudeo: 340, mayoreo3k: 216, mayoreo6k: 201 },
-  { nombre: "WHEY HD", categoria: "PROTEINAS", marca: "BPI", imagen: "WHEY_HD_BPI.png", menudeo: 940, mayoreo3k: 826, mayoreo6k: 811 },
+  { nombre: "WHEY HD", categoria: "PROTEINAS", marca: "BPI", imagen: "WHEY_HD_BPI.png", menudeo: 990, mayoreo3k: 900, mayoreo6k: 885 },
   { nombre: "XTINCTION MULTISABOR", categoria: "PROTEINAS", marca: "XTINCTION", imagen: "WHEY_XTINCTION_MULTISABOR.png", menudeo: 850, mayoreo3k: 605, mayoreo6k: 582 },
   { nombre: "YOHIMBINE", categoria: "QUEMADORES", marca: "ALLMAX", imagen: "YOHIMBINE.png", menudeo: 350, mayoreo3k: 251, mayoreo6k: 239 },
   { nombre: "ZMAG GAT", categoria: "OTROS", marca: "GAT SPORT", imagen: "ZMAG_GAT.png", menudeo: 320, mayoreo3k: 216, mayoreo6k: 204 }
