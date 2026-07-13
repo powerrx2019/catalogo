@@ -175,7 +175,7 @@ const productos = [
   { nombre: "PSYCHOTIC ROJO CHICO", categoria: "PRE ENTRENOS", marca: "INSANE", imagen: "PSYCHOTIC_ROJO_CHICO.png", menudeo: 460, mayoreo3k: 359, mayoreo6k: 344 },
   { nombre: "PSYCHOTIC ROJO GRANDE", categoria: "PRE ENTRENOS", marca: "INSANE", imagen: "PSYCHOTIC_ROJO_GRANDE.png", menudeo: 670, mayoreo3k: 523, mayoreo6k: 505 },
   { nombre: "PSYCHOTIC SAW", categoria: "PRE ENTRENOS", marca: "INSANE", imagen: "PSYCHOTIC_SAW.png", menudeo: 520, mayoreo3k: 412, mayoreo6k: 397 },
-  { nombre: "PSYCHOTIC SAW GRANDE", categoria: "PRE ENTRENOS", marca: "INSANE", imagen: "PSYCHOTIC_SAW_GRANDE.pmg", menudeo: 720, mayoreo3k: 577, mayoreo6k: 562 },
+  { nombre: "PSYCHOTIC SAW GRANDE", categoria: "PRE ENTRENOS", marca: "INSANE", imagen: "PSYCHOTIC_SAW_GRANDE.png", menudeo: 720, mayoreo3k: 577, mayoreo6k: 562 },
   { nombre: "PSYCHOTIC SOBRES NEGRO", categoria: "PRE ENTRENOS", marca: "INSANE", imagen: "PSYCHOTIC_SOBRES_NEGRO.png", menudeo: 550, mayoreo3k: 459, mayoreo6k: 447 },
   { nombre: "PSYCHOTIC SOBRES ROJO", categoria: "PRE ENTRENOS", marca: "INSANE", imagen: "PSYCHOTIC_SOBRES_ROJO.png", menudeo: 580, mayoreo3k: 492, mayoreo6k: 480 },
   { nombre: "PYSCHOTIC SOBRES DORADO", categoria: "PRE ENTRENOS", marca: "INSANE", imagen: "PSYCHOTIC_SOBRES_DORADO.png", menudeo: 590, mayoreo3k: 489, mayoreo6k: 477 },
